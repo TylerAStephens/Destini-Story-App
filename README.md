@@ -7,6 +7,6 @@ Practiced Swift development by creating a 'Choose your own dinner adventure' app
 Demonstrated:
 
 - Replacing and updating UILabel, UIButton, and UIImageView.
-- Customized Buttons Progrommatically 
+- Customized Buttons Programmatically 
 
 Logic learned from Philipp Muellauer and Angela Yu at London App Brewery.
